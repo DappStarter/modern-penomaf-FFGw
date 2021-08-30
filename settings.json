@@ -1,0 +1,16 @@
+{
+    "name": "SupaSwap",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "supaswap",
+        "/category/asset_value_tracking/core-token/symbol": "supAswap",
+        "/category/asset_value_tracking/core-token/decimals": "00000000",
+        "/category/asset_value_tracking/core-token/supply": "10000000000"
+    }
+}
